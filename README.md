@@ -38,9 +38,8 @@ The result of the operation is 30
 Requirements
 Python 3.x
 
-Notes
+Note!
 Division operation (/) performs integer division (uses // operator)
 
 The program will display "Invalid operation entered!" if you choose an option other than 1-4
 
-Feel free to modify and extend this calculator as needed!
